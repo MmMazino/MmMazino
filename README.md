@@ -6,7 +6,7 @@ Front-End Developer
 
 * 🌍  I'm based in Bangkok
 * 🖥️  See my portfolio at [Portfolio](http://thanapit-portfolio.vercel.app/)
-* ✉️  You can contact me at [thanapit\_maggie@gmail.com](mailto:thanapit_maggie@gmail.com)
+* ✉️  You can contact me at [thanapit\_maggie@gmail.com](mailto:thanapit.maggie@gmail.com)
 
 <a href="https://www.github.com/MmMazino" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MmMazino?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
